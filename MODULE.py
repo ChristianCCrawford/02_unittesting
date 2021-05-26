@@ -1,5 +1,13 @@
-def ():
+#Holds the logic for your methods
 
-def ():
+#Addition method
+def add(a):
+   return a + a
+   
+#Subtract method
+def sub(a):
+   return a - a 
 
-def ():
+#Sum method  
+def sum(a):
+   return a
